@@ -1,7 +1,7 @@
 # Site settings
 title: Mauricio Urraco
 description: Jekyll Theme Minimal Resume
- baseurl: gergegr.ml/delect # the subpath of your site, e.g. /blog
+ baseurl: /delect # the subpath of your site, e.g. /blog
  url: https://www.gergegr.ml # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
